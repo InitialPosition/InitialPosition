@@ -1,16 +1,17 @@
-### Hi there 👋
+# hello yes i'm am me
 
-<!--
-**InitialPosition/InitialPosition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+if you are reading this you have successfully opened my github account page. congrats.
 
-Here are some ideas to get you started:
+here you can find bad code, unfinished projects, best practices on how not to program and some projects written in java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+mistakes im very proud of:
+
+- [a third party voting tool for LDJAM](https://github.com/InitialPosition/pyJAMa)
+- [a chess engine producing 400 IQ blunders on a regular basis](https://github.com/InitialPosition/CheddarShredder)
+- [a plugin to fuel more dread into your minecraft servers](https://github.com/InitialPosition/GlobalCountdown)
+- [enigma if enigma was written by an idiot](https://github.com/InitialPosition/WordScrambler2001)
+
+i also have other projects that are of no use to anyone. you can find those [here](https://github.com/InitialPosition?tab=repositories).
+
