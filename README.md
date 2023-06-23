@@ -8,6 +8,7 @@ here you can find good code, some rushed code otherwise known as "game jam games
 
 things im very proud of:
 
+- [a game about emails that got 12th place in the Ludum Dare game jam](https://github.com/InitialPosition/LDJAM53)
 - [a third party voting tool for LDJAM](https://github.com/InitialPosition/pyJAMa)
 - [a chess engine producing 400 IQ blunders](https://github.com/InitialPosition/CheddarShredder)
 - [a plugin to fuel more dread into your minecraft servers](https://github.com/InitialPosition/GlobalCountdown)
